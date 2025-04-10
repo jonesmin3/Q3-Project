@@ -1,6 +1,4 @@
-# QA3-Project
-# QA3-Project
-# Quiz Bowl Application
+# QA3-Project: Quiz Bowl Application
 
 ## The PASSWORD to access the administrator interface is:
 - CanIPleaseHaveExtraCreditPorFavor
@@ -27,12 +25,17 @@ This project is a quarterly assessment where you will develop a comprehensive Qu
 
 ## Database Structure
 
-The application includes a database with 5 tables, one for each course category. Each table contains:
+The application includes a database with 6 tables, one for each course category. Each table contains:
 
-- At least 10 questions per course.
+- At least 10 questions per course:
+  - 6 Multiple-choice questions 
+  - 2 Fill in the blank questions
+  - 1 True or false question
+  - 1 Multi-answer select
+
 - Each question includes:
   - Question text
-  - Multiple-choice options
+  - Answer-choice options
   - Correct answer
 
 ## Technical Requirements
