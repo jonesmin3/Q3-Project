@@ -1,0 +1,134 @@
+[
+    {
+        "type": "mcq",
+        "question": "What do actors perform on?",
+        "options": [
+            "A stage",
+            " A screen",
+            " A court",
+            " A field"
+        ],
+        "answers": [
+            "A stage"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What is the name of a drama that is meant to make people laugh?",
+        "options": [
+            "Tragedy",
+            " Comedy",
+            " Musical",
+            " Documentary"
+        ],
+        "answers": [
+            "Comedy"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "Who writes the script for a play?",
+        "options": [
+            "Director",
+            " Playwright",
+            " Actor",
+            " Producer"
+        ],
+        "answers": [
+            "Playwright"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What do we call the dialogue and directions written for a play?",
+        "options": [
+            "Lyrics",
+            " Notes",
+            " Script",
+            " Score"
+        ],
+        "answers": [
+            "Script"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What is the area backstage where actors wait before going on stage?",
+        "options": [
+            "Dressing room",
+            " Green room",
+            " Waiting lounge",
+            " Stage door"
+        ],
+        "answers": [
+            "Green room"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What do actors wear to change their appearance in a play?",
+        "options": [
+            "Costumes",
+            " Uniforms",
+            " Suits",
+            " Outfits"
+        ],
+        "answers": [
+            "Costumes"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "The person responsible for directing a play and guiding the actors is called the __________.",
+        "options": null,
+        "answers": [
+            "Director",
+            "director",
+            "DIrector",
+            "directer",
+            "directir",
+            "Directir",
+            "Directer"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "The __________ is the part of a theatre where the audience sits to watch the performance.",
+        "options": null,
+        "answers": [
+            "AUditorium",
+            "auditorium",
+            "Auditorium",
+            "auditoriem",
+            "auditerium"
+        ]
+    },
+    {
+        "type": "tf",
+        "question": "True or False: The person who designs and oversees the costumes for a play is called the stage manager.",
+        "options": [
+            "true",
+            "false"
+        ],
+        "answers": [
+            "false"
+        ]
+    },
+    {
+        "type": "multi",
+        "question": "Which of the following are essential roles in a theatre production? (Select all that apply)",
+        "options": [
+            "Director",
+            "Chef",
+            "Dentist",
+            "Costume Designer",
+            "Lighting",
+            "Mechanic"
+        ],
+        "answers": [
+            "Director",
+            "Costume Designer",
+            "Lighting"
+        ]
+    }
+]
