@@ -1,0 +1,130 @@
+[
+    {
+        "type": "mcq",
+        "question": "In an ER diagram, what symbol is typically used to represent an entity?",
+        "options": [
+            "Rectangle",
+            " Circle",
+            " Diamond",
+            " Triangle"
+        ],
+        "answers": [
+            "Rectangle"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What does \"ER\" stand for in ER modeling?",
+        "options": [
+            "Entity-Relationship",
+            " Entity-Record",
+            " Event-Relation",
+            " Extended-Record"
+        ],
+        "answers": [
+            "Entity-Relationship"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "Which of the following represents a relationship between entities in an ER diagram?",
+        "options": [
+            "Oval",
+            " Diamond",
+            " Rectangle",
+            " Square"
+        ],
+        "answers": [
+            "Diamond"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What is a primary key in ER modeling?",
+        "options": [
+            "A unique identifier for an entity",
+            " A duplicate entry",
+            " A type of attribute",
+            " A relationship name"
+        ],
+        "answers": [
+            "A unique identifier for an entity"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "In an ER diagram, attributes are typically represented by which shape?",
+        "options": [
+            "Rectangle",
+            " Oval",
+            " Hexagon",
+            " Pentagon"
+        ],
+        "answers": [
+            "Oval"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What is the purpose of cardinality in an ER model?",
+        "options": [
+            "Defines relationships between entities",
+            " Specifies the number of entity instances in a relationship",
+            " Assigns colors to entities",
+            " Organizes data into tables"
+        ],
+        "answers": [
+            "Specifies the number of entity instances in a relationship"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "The process of organizing a database to reduce redundancy and improve integrity is called __________.",
+        "options": null,
+        "answers": [
+            "normalization",
+            "Normalization",
+            "normalisation",
+            "Normalisation"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "The __________ normal form ensures that all attributes in a table depend only on the primary key.",
+        "options": null,
+        "answers": [
+            "First",
+            "first",
+            "1st"
+        ]
+    },
+    {
+        "type": "tf",
+        "question": "True or False: A foreign key in a database must always be unique within its table.",
+        "options": [
+            "true",
+            " false"
+        ],
+        "answers": [
+            "false"
+        ]
+    },
+    {
+        "type": "multi",
+        "question": "Which of the following are important concepts in relational database design? (Select all that apply)",
+        "options": [
+            "Referential integrity",
+            " Blockchain mining",
+            " Foreign key constraints",
+            " Quantum computing",
+            " Indexing",
+            " Entity relationships"
+        ],
+        "answers": [
+            "Referential integrity",
+            "Indexing",
+            "Foreign key constraints",
+            "Entity relationships"
+        ]
+    }
+]
