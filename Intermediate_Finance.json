@@ -1,0 +1,129 @@
+[
+    {
+        "type": "mcq",
+        "question": "Which financial ratio is used to measure a company\u2019s ability to meet short-term obligations?",
+        "options": [
+            "Debt-to-equity ratio",
+            " Return on assets",
+            " Current ratio",
+            " Price-to-earnings ratio"
+        ],
+        "answers": [
+            "Current ratio"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What does the CAPM (Capital Asset Pricing Model) primarily determine?",
+        "options": [
+            "The intrinsic value of a stock",
+            " The risk-adjusted return of an investment",
+            " The total revenue of a company",
+            " The break-even point of an investment"
+        ],
+        "answers": [
+            "The risk-adjusted return of an investment"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "In the bond market, what typically happens when interest rates rise?",
+        "options": [
+            "Bond prices increase",
+            " Bond prices decrease",
+            " Bond yields decrease",
+            " Bonds become less risky"
+        ],
+        "answers": [
+            "Bond prices decrease"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "Which financial statement provides information on a company\u2019s profitability over a specific period?",
+        "options": [
+            "Balance sheet",
+            " Cash flow statement",
+            " Income statement",
+            " Statement of retained earnings"
+        ],
+        "answers": [
+            "Income statement"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What is a common method for valuing a company based on its future cash flows?",
+        "options": [
+            "Price-to-earnings ratio",
+            " Discounted cash flow analysis",
+            " Dividend yield method",
+            " Quick ratio"
+        ],
+        "answers": [
+            "Discounted cash flow analysis"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "Which of the following is considered a derivative financial instrument?",
+        "options": [
+            "Common stock",
+            " Corporate bond",
+            " Futures contract",
+            " Treasury bill"
+        ],
+        "answers": [
+            "Futures contract"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "The process of distributing profits to shareholders in the form of payments is called __________.",
+        "options": null,
+        "answers": [
+            "dividends",
+            "Dividends"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "The total value of goods and services produced within a country\u2019s borders is called __________.",
+        "options": null,
+        "answers": [
+            "GDP",
+            "Gross Domestic Product",
+            "gross domestic product",
+            "gross domestic product (GDP)"
+        ]
+    },
+    {
+        "type": "tf",
+        "question": "True or False: A company with a high free cash flow but negative net income can still be considered financially strong if it strategically manages its debt and investments.",
+        "options": [
+            "true",
+            " false"
+        ],
+        "answers": [
+            "true"
+        ]
+    },
+    {
+        "type": "multi",
+        "question": "Which of the following factors can directly impact a company's weighted average cost of capital (WACC)? (Select all that apply)",
+        "options": [
+            "Tax rate changes",
+            " Market fluctuations in stock prices",
+            " The company\u2019s dividend payout ratio",
+            " Changes in the risk-free rate",
+            " Shifts in investor sentiment",
+            " Adjustments in the company's debt levels"
+        ],
+        "answers": [
+            "Tax rate changes",
+            "Market fluctuations in stock prices",
+            "Changes in the risk-free rate",
+            "Adjustments in the company's debt levels"
+        ]
+    }
+]
