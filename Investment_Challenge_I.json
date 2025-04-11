@@ -1,0 +1,126 @@
+[
+    {
+        "type": "mcq",
+        "question": "Which type of investment typically offers ownership in a company?",
+        "options": [
+            "Stocks",
+            " Bonds",
+            " Mutual funds",
+            " Certificates of deposit"
+        ],
+        "answers": [
+            "Stocks"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What is diversification in investing?",
+        "options": [
+            "Putting all money into one stock",
+            " Spreading investments across different assets to reduce risk",
+            " Investing only in high-risk ventures",
+            " Buying and selling stocks daily"
+        ],
+        "answers": [
+            "Spreading investments across different assets to reduce risk"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "Which investment type is generally considered the least risky?",
+        "options": [
+            "Stocks",
+            " Real estate",
+            " Bonds",
+            " Cryptocurrency"
+        ],
+        "answers": [
+            "Bonds"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What does a high P/E (Price-to-Earnings) ratio indicate about a stock?",
+        "options": [
+            "It is undervalued",
+            " Investors expect strong future growth",
+            " The company is going bankrupt",
+            " The stock pays high dividends"
+        ],
+        "answers": [
+            "Investors expect strong future growth"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What is the purpose of a mutual fund?",
+        "options": [
+            "To pool money from multiple investors for diversified investments",
+            " To buy individual stocks directly",
+            " To increase taxes on investments",
+            " To create a personal savings account"
+        ],
+        "answers": [
+            "To pool money from multiple investors for diversified investments"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "Which factor has the most direct impact on bond prices?",
+        "options": [
+            "Interest rates",
+            " Company earnings",
+            " Consumer spending",
+            " Stock market trends"
+        ],
+        "answers": [
+            "Interest rates"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "The potential return on an investment is often measured as __________.",
+        "options": null,
+        "answers": [
+            "return",
+            "Return"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "The process of reinvesting earnings to generate additional returns over time is called __________.",
+        "options": null,
+        "answers": [
+            "compounding",
+            "Compounding"
+        ]
+    },
+    {
+        "type": "tf",
+        "question": "True or False: A company's stock price can remain artificially inflated for an extended period due to high-frequency trading algorithms and institutional investor strategies, even if the company's financial performance is declining.",
+        "options": [
+            "true",
+            " false"
+        ],
+        "answers": [
+            "true"
+        ]
+    },
+    {
+        "type": "multi",
+        "question": "Which of the following scenarios could lead to a sudden collapse in a stock's price? (Select all that apply)",
+        "options": [
+            "Accounting fraud",
+            " Interest rate cuts by the central bank",
+            " A successful product launch",
+            " A major shareholder selling a large stake",
+            " An unexpected lawsuit against the company",
+            " A rise in consumer demand for the company's products"
+        ],
+        "answers": [
+            "Accounting fraud",
+            "A major shareholder selling a large stake",
+            "An unexpected lawsuit against the company"
+        ]
+    }
+]
