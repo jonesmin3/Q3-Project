@@ -1,0 +1,129 @@
+[
+    {
+        "type": "mcq",
+        "question": "What is the primary function of a central bank?",
+        "options": [
+            "Printing money",
+            " Managing interest rates and regulating the money supply",
+            " Issuing loans to individuals",
+            " Selling stocks and bonds"
+        ],
+        "answers": [
+            "Managing interest rates and regulating the money supply"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "Which of the following is considered fiat money?",
+        "options": [
+            "Gold",
+            " Silver coins",
+            " Paper currency issued by a government",
+            " Cryptocurrency"
+        ],
+        "answers": [
+            "Paper currency issued by a government"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What does FDIC stand for in banking?",
+        "options": [
+            "Federal Deposit Insurance Corporation",
+            " Financial Data and Investment Center",
+            " Fixed Debt Interest Control",
+            " Foreign Direct Investment Commission"
+        ],
+        "answers": [
+            "Federal Deposit Insurance Corporation"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What is the main purpose of a commercial bank?",
+        "options": [
+            "Regulating the entire financial system",
+            " Providing financial services such as savings accounts and loans",
+            " Buying and selling stocks",
+            " Managing government spending"
+        ],
+        "answers": [
+            "Providing financial services such as savings accounts and loans"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "Which type of interest calculation results in earning interest on both the principal and previously earned interest?",
+        "options": [
+            "Simple interest",
+            " Compound interest",
+            " Fixed interest",
+            " Variable interest"
+        ],
+        "answers": [
+            "Compound Interest"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What does the term \"liquidity\" refer to in banking?",
+        "options": [
+            "The ability of a bank to make loans",
+            " The ease with which an asset can be converted into cash",
+            " The total profits earned by a bank",
+            " The amount of physical cash stored in a vault"
+        ],
+        "answers": [
+            "The ease with which an asset can be converted into cash"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "The process of setting aside money for future use is called __________.",
+        "options": null,
+        "answers": [
+            "saving",
+            "Saving"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "The rate at which banks lend money to borrowers is known as __________.",
+        "options": null,
+        "answers": [
+            "Interest",
+            "interest",
+            "intrest",
+            "Intrest"
+        ]
+    },
+    {
+        "type": "tf",
+        "question": "True or False: In a fractional reserve banking system, banks can legally lend out more money than they actually have in reserves, creating money through the lending process.",
+        "options": [
+            "true",
+            " false"
+        ],
+        "answers": [
+            "true"
+        ]
+    },
+    {
+        "type": "multi",
+        "question": "Which of the following factors can influence a country's inflation rate? (Select all that apply)",
+        "options": [
+            "Government spending",
+            " Interest rates set by the central bank",
+            " Technological advancements",
+            " Natural disasters",
+            " The amount of gold in circulation",
+            " Supply chain disruptions"
+        ],
+        "answers": [
+            "Government spending",
+            "Interest rates set by the central bank",
+            "Supply chain disruptions",
+            "Natural disasters"
+        ]
+    }
+]
