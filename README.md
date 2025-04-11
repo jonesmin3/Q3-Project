@@ -31,7 +31,11 @@ The application includes a database with 6 tables, one for each course category.
   - 6 Multiple-choice questions 
   - 2 Fill in the blank questions
   - 1 True or false question
+<<<<<<< HEAD
   - 1 Multi-answer select 
+=======
+  - 1 Multi-answer select
+>>>>>>> 52d612fffb274e283cd2e46a94c90555e4bc6cb8
 
 - Each question includes:
   - Question text
