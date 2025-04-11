@@ -1,0 +1,136 @@
+[
+    {
+        "type": "mcq",
+        "question": "What does GUI stand for?",
+        "options": [
+            " General User Interface",
+            " Graphical User Interaction",
+            " Graphical User Interface",
+            " Guided User Integration"
+        ],
+        "answers": [
+            "Graphical User Interface"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What is the correct way to print \"Hello, World!\" in Python?",
+        "options": [
+            "print(\"Hello, World!\")",
+            "echo (\"Hello, World!\")",
+            "printf(\"Hello, World!\")",
+            "console.log(\"Hello, World!\")"
+        ],
+        "answers": [
+            "print(\"Hello, World!\")"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "Which of the following is used to define a function in Python?",
+        "options": [
+            "function myFunction():",
+            " def myFunction():",
+            " define myFunction():",
+            " func myFunction():"
+        ],
+        "answers": [
+            "def myFunction():"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "Which data type is used to store multiple values in a single variable?",
+        "options": [
+            "int",
+            " list",
+            " float",
+            " bool"
+        ],
+        "answers": [
+            "list"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "How do you check the length of a list my_list in Python?",
+        "options": [
+            "len(my_list)",
+            " count(my_list)",
+            " size(my_list)",
+            " my_list.length()"
+        ],
+        "answers": [
+            "len(my_list)"
+        ]
+    },
+    {
+        "type": "mcq",
+        "question": "What keyword is used to create a loop that continues while a condition is true?",
+        "options": [
+            "for",
+            "while",
+            "loop",
+            "iterate"
+        ],
+        "answers": [
+            "while"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "In Python, a __________ is used to store key-value pairs.",
+        "options": null,
+        "answers": [
+            "dictionary",
+            "Dictionary",
+            "DIctionary",
+            "DICTIONARY",
+            "diktionarie"
+        ]
+    },
+    {
+        "type": "fitb",
+        "question": "In Python, lists are defined using square brackets ([]), while dictionaries are defined using __________.",
+        "options": null,
+        "answers": [
+            "braces",
+            "Braces",
+            "{}",
+            "BRaces",
+            "brases",
+            "Brases",
+            "curly braces"
+        ]
+    },
+    {
+        "type": "tf",
+        "question": "True or False: In Python, a variable must be declared with a specific data type before it can be used.",
+        "options": [
+            "true",
+            "false"
+        ],
+        "answers": [
+            "false"
+        ]
+    },
+    {
+        "type": "multi",
+        "question": "Which of the following are valid Python data types? (Select all that apply)",
+        "options": [
+            "int",
+            "float",
+            "string",
+            "array",
+            "list",
+            "dictionary"
+        ],
+        "answers": [
+            "int",
+            "float",
+            "string",
+            "list",
+            "dictionary"
+        ]
+    }
+]
